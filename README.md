@@ -34,6 +34,8 @@ A variety of reference "flavors" have been created which can be used for various
 
 1. Verify and concatinate input datasets
 
+- See the input_datasets and ref_prep directories
+
 2. Seed label using reference studies' cell annotation to expand to entire reference
 
 - I used the SlightWebb annotations as the seeds for the large references due to the use of CITEseq in their annotations and the granularity of B cell subtypes
