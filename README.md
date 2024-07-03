@@ -2,6 +2,8 @@
 
 This repo contains jupyter notebooks as well as standalone python scripts documenting the creation of a large single-cell RNAseq reference atlas of B cells taken from pubically available data. These cells have been derived from studies of human B cells from patients with systemic lupus erythematosus (SLE) in various ancestry populations, as well as B cells from matched healthy control individuals. 
 
+**Note: I'm still actively working to update this with all the data and models! I expect I'll get things added bit by bit over time**
+
 ### Reference Specifications
 
 All reference atlas contain only cells annotated broadly as B cells (i.e. CD19+) or plasmablasts from previously published studies. These references were designed for transfer learning purposes using scanpy/scVI/scArches tools. 
