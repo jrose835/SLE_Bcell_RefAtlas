@@ -1,2 +1,3 @@
 *.html
 *.h5ad
+./ref_objs/*.h5ad
